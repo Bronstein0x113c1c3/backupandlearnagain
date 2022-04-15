@@ -1,0 +1,16 @@
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\bin\Debug\net5.0\ep1_day1.exe
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\bin\Debug\net5.0\ep1_day1.deps.json
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\bin\Debug\net5.0\ep1_day1.runtimeconfig.json
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\bin\Debug\net5.0\ep1_day1.runtimeconfig.dev.json
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\bin\Debug\net5.0\ep1_day1.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\bin\Debug\net5.0\ref\ep1_day1.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\bin\Debug\net5.0\ep1_day1.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\obj\Debug\net5.0\ep1_day1.csproj.AssemblyReference.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\obj\Debug\net5.0\ep1_day1.GeneratedMSBuildEditorConfig.editorconfig
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\obj\Debug\net5.0\ep1_day1.AssemblyInfoInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\obj\Debug\net5.0\ep1_day1.AssemblyInfo.cs
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\obj\Debug\net5.0\ep1_day1.csproj.CoreCompileInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\obj\Debug\net5.0\ep1_day1.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\obj\Debug\net5.0\ref\ep1_day1.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\obj\Debug\net5.0\ep1_day1.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1\obj\Debug\net5.0\ep1_day1.genruntimeconfig.cache

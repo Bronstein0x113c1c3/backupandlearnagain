@@ -1,0 +1,15 @@
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\bin\Debug\net6.0\filling.exe
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\bin\Debug\net6.0\filling.deps.json
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\bin\Debug\net6.0\filling.runtimeconfig.json
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\bin\Debug\net6.0\filling.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\bin\Debug\net6.0\ref\filling.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\bin\Debug\net6.0\filling.pdb
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\obj\Debug\net6.0\filling.csproj.AssemblyReference.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\obj\Debug\net6.0\filling.GeneratedMSBuildEditorConfig.editorconfig
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\obj\Debug\net6.0\filling.AssemblyInfoInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\obj\Debug\net6.0\filling.AssemblyInfo.cs
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\obj\Debug\net6.0\filling.csproj.CoreCompileInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\obj\Debug\net6.0\filling.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\obj\Debug\net6.0\ref\filling.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\obj\Debug\net6.0\filling.pdb
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\filling\obj\Debug\net6.0\filling.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\180C\ConsoleApplication1\ConsoleApplication1.cpp(6,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\180C\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

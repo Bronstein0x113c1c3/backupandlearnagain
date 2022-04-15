@@ -1,0 +1,16 @@
+D:\algorithm\Bitmask\ep3_minimumcost\obj\Debug\net6.0\ep3_minumumcost.GlobalUsings.g.cs
+D:\algorithm\Bitmask\ep3_minimumcost\obj\Debug\net6.0\ep3_minumumcost.csproj.AssemblyReference.cache
+D:\algorithm\Bitmask\ep3_minimumcost\obj\Debug\net6.0\ep3_minumumcost.GeneratedMSBuildEditorConfig.editorconfig
+D:\algorithm\Bitmask\ep3_minimumcost\obj\Debug\net6.0\ep3_minumumcost.AssemblyInfoInputs.cache
+D:\algorithm\Bitmask\ep3_minimumcost\obj\Debug\net6.0\ep3_minumumcost.AssemblyInfo.cs
+D:\algorithm\Bitmask\ep3_minimumcost\obj\Debug\net6.0\ep3_minumumcost.csproj.CoreCompileInputs.cache
+D:\algorithm\Bitmask\ep3_minimumcost\bin\Debug\net6.0\ep3_minumumcost.exe
+D:\algorithm\Bitmask\ep3_minimumcost\bin\Debug\net6.0\ep3_minumumcost.deps.json
+D:\algorithm\Bitmask\ep3_minimumcost\bin\Debug\net6.0\ep3_minumumcost.runtimeconfig.json
+D:\algorithm\Bitmask\ep3_minimumcost\bin\Debug\net6.0\ep3_minumumcost.dll
+D:\algorithm\Bitmask\ep3_minimumcost\bin\Debug\net6.0\ref\ep3_minumumcost.dll
+D:\algorithm\Bitmask\ep3_minimumcost\bin\Debug\net6.0\ep3_minumumcost.pdb
+D:\algorithm\Bitmask\ep3_minimumcost\obj\Debug\net6.0\ep3_minumumcost.dll
+D:\algorithm\Bitmask\ep3_minimumcost\obj\Debug\net6.0\ref\ep3_minumumcost.dll
+D:\algorithm\Bitmask\ep3_minimumcost\obj\Debug\net6.0\ep3_minumumcost.pdb
+D:\algorithm\Bitmask\ep3_minimumcost\obj\Debug\net6.0\ep3_minumumcost.genruntimeconfig.cache

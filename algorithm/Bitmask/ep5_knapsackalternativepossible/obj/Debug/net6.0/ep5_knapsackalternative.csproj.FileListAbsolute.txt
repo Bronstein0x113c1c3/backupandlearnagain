@@ -1,0 +1,15 @@
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\obj\Debug\net6.0\ep5_knapsackalternative.csproj.AssemblyReference.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\obj\Debug\net6.0\ep5_knapsackalternative.GeneratedMSBuildEditorConfig.editorconfig
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\obj\Debug\net6.0\ep5_knapsackalternative.AssemblyInfoInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\obj\Debug\net6.0\ep5_knapsackalternative.AssemblyInfo.cs
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\obj\Debug\net6.0\ep5_knapsackalternative.csproj.CoreCompileInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\bin\Debug\net6.0\ep5_knapsackalternative.exe
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\bin\Debug\net6.0\ep5_knapsackalternative.deps.json
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\bin\Debug\net6.0\ep5_knapsackalternative.runtimeconfig.json
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\bin\Debug\net6.0\ep5_knapsackalternative.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\bin\Debug\net6.0\ref\ep5_knapsackalternative.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\bin\Debug\net6.0\ep5_knapsackalternative.pdb
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\obj\Debug\net6.0\ep5_knapsackalternative.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\obj\Debug\net6.0\ref\ep5_knapsackalternative.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\obj\Debug\net6.0\ep5_knapsackalternative.pdb
+B:\immortalthings\immortaltutorialsandprojects\algorithm\Bitmask\ep5_knapsackalternative\obj\Debug\net6.0\ep5_knapsackalternative.genruntimeconfig.cache

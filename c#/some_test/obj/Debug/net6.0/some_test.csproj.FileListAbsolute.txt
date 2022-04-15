@@ -1,0 +1,15 @@
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\bin\Debug\net6.0\some_test.exe
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\bin\Debug\net6.0\some_test.deps.json
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\bin\Debug\net6.0\some_test.runtimeconfig.json
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\bin\Debug\net6.0\some_test.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\bin\Debug\net6.0\ref\some_test.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\bin\Debug\net6.0\some_test.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\obj\Debug\net6.0\some_test.csproj.AssemblyReference.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\obj\Debug\net6.0\some_test.GeneratedMSBuildEditorConfig.editorconfig
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\obj\Debug\net6.0\some_test.AssemblyInfoInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\obj\Debug\net6.0\some_test.AssemblyInfo.cs
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\obj\Debug\net6.0\some_test.csproj.CoreCompileInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\obj\Debug\net6.0\some_test.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\obj\Debug\net6.0\ref\some_test.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\obj\Debug\net6.0\some_test.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\some_test\obj\Debug\net6.0\some_test.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\algorithm\DynamicProgramming\ep5forexperiment\bin\Debug\net6.0\ep5forexperiment.exe
+D:\algorithm\DynamicProgramming\ep5forexperiment\bin\Debug\net6.0\ep5forexperiment.deps.json
+D:\algorithm\DynamicProgramming\ep5forexperiment\bin\Debug\net6.0\ep5forexperiment.runtimeconfig.json
+D:\algorithm\DynamicProgramming\ep5forexperiment\bin\Debug\net6.0\ep5forexperiment.dll
+D:\algorithm\DynamicProgramming\ep5forexperiment\bin\Debug\net6.0\ref\ep5forexperiment.dll
+D:\algorithm\DynamicProgramming\ep5forexperiment\bin\Debug\net6.0\ep5forexperiment.pdb
+D:\algorithm\DynamicProgramming\ep5forexperiment\obj\Debug\net6.0\ep5forexperiment.GlobalUsings.g.cs
+D:\algorithm\DynamicProgramming\ep5forexperiment\obj\Debug\net6.0\ep5forexperiment.csproj.AssemblyReference.cache
+D:\algorithm\DynamicProgramming\ep5forexperiment\obj\Debug\net6.0\ep5forexperiment.GeneratedMSBuildEditorConfig.editorconfig
+D:\algorithm\DynamicProgramming\ep5forexperiment\obj\Debug\net6.0\ep5forexperiment.AssemblyInfoInputs.cache
+D:\algorithm\DynamicProgramming\ep5forexperiment\obj\Debug\net6.0\ep5forexperiment.AssemblyInfo.cs
+D:\algorithm\DynamicProgramming\ep5forexperiment\obj\Debug\net6.0\ep5forexperiment.csproj.CoreCompileInputs.cache
+D:\algorithm\DynamicProgramming\ep5forexperiment\obj\Debug\net6.0\ep5forexperiment.dll
+D:\algorithm\DynamicProgramming\ep5forexperiment\obj\Debug\net6.0\ref\ep5forexperiment.dll
+D:\algorithm\DynamicProgramming\ep5forexperiment\obj\Debug\net6.0\ep5forexperiment.pdb
+D:\algorithm\DynamicProgramming\ep5forexperiment\obj\Debug\net6.0\ep5forexperiment.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\obj\Debug\net6.0\ezprob.csproj.AssemblyReference.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\obj\Debug\net6.0\ezprob.GeneratedMSBuildEditorConfig.editorconfig
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\obj\Debug\net6.0\ezprob.AssemblyInfoInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\obj\Debug\net6.0\ezprob.AssemblyInfo.cs
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\obj\Debug\net6.0\ezprob.csproj.CoreCompileInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\bin\Debug\net6.0\ezprob.exe
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\bin\Debug\net6.0\ezprob.deps.json
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\bin\Debug\net6.0\ezprob.runtimeconfig.json
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\bin\Debug\net6.0\ezprob.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\bin\Debug\net6.0\ref\ezprob.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\bin\Debug\net6.0\ezprob.pdb
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\obj\Debug\net6.0\ezprob.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\obj\Debug\net6.0\ref\ezprob.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\obj\Debug\net6.0\ezprob.pdb
+B:\immortalthings\immortaltutorialsandprojects\algorithm\codeforcesforcompetitiveprogramming\ezprob\obj\Debug\net6.0\ezprob.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\algorithm\DynamicProgramming\ep4\bin\Debug\net6.0\ep4.exe
+D:\algorithm\DynamicProgramming\ep4\bin\Debug\net6.0\ep4.deps.json
+D:\algorithm\DynamicProgramming\ep4\bin\Debug\net6.0\ep4.runtimeconfig.json
+D:\algorithm\DynamicProgramming\ep4\bin\Debug\net6.0\ep4.dll
+D:\algorithm\DynamicProgramming\ep4\bin\Debug\net6.0\ref\ep4.dll
+D:\algorithm\DynamicProgramming\ep4\bin\Debug\net6.0\ep4.pdb
+D:\algorithm\DynamicProgramming\ep4\obj\Debug\net6.0\ep4.GlobalUsings.g.cs
+D:\algorithm\DynamicProgramming\ep4\obj\Debug\net6.0\ep4.csproj.AssemblyReference.cache
+D:\algorithm\DynamicProgramming\ep4\obj\Debug\net6.0\ep4.GeneratedMSBuildEditorConfig.editorconfig
+D:\algorithm\DynamicProgramming\ep4\obj\Debug\net6.0\ep4.AssemblyInfoInputs.cache
+D:\algorithm\DynamicProgramming\ep4\obj\Debug\net6.0\ep4.AssemblyInfo.cs
+D:\algorithm\DynamicProgramming\ep4\obj\Debug\net6.0\ep4.csproj.CoreCompileInputs.cache
+D:\algorithm\DynamicProgramming\ep4\obj\Debug\net6.0\ep4.dll
+D:\algorithm\DynamicProgramming\ep4\obj\Debug\net6.0\ref\ep4.dll
+D:\algorithm\DynamicProgramming\ep4\obj\Debug\net6.0\ep4.pdb
+D:\algorithm\DynamicProgramming\ep4\obj\Debug\net6.0\ep4.genruntimeconfig.cache

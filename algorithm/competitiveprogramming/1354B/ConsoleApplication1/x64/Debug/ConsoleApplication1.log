@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\1354B\ConsoleApplication1\ConsoleApplication1.cpp(16,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\1354B\ConsoleApplication1\ConsoleApplication1.cpp(25,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\1354B\ConsoleApplication1\ConsoleApplication1.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\1354B\ConsoleApplication1\ConsoleApplication1.cpp(13,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

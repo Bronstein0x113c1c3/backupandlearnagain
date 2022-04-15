@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ep12_lineofwines/1.0.0": {
+        "runtime": {
+          "ep12_lineofwines.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ep12_lineofwines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\obj\Debug\net6.0\ep17_waytohome.csproj.AssemblyReference.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\obj\Debug\net6.0\ep17_waytohome.GeneratedMSBuildEditorConfig.editorconfig
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\obj\Debug\net6.0\ep17_waytohome.AssemblyInfoInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\obj\Debug\net6.0\ep17_waytohome.AssemblyInfo.cs
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\obj\Debug\net6.0\ep17_waytohome.csproj.CoreCompileInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\bin\Debug\net6.0\ep17_waytohome.exe
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\bin\Debug\net6.0\ep17_waytohome.deps.json
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\bin\Debug\net6.0\ep17_waytohome.runtimeconfig.json
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\bin\Debug\net6.0\ep17_waytohome.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\bin\Debug\net6.0\ref\ep17_waytohome.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\bin\Debug\net6.0\ep17_waytohome.pdb
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\obj\Debug\net6.0\ep17_waytohome.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\obj\Debug\net6.0\ref\ep17_waytohome.dll
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\obj\Debug\net6.0\ep17_waytohome.pdb
+B:\immortalthings\immortaltutorialsandprojects\algorithm\DynamicProgramming\ep17_waytohome\obj\Debug\net6.0\ep17_waytohome.genruntimeconfig.cache

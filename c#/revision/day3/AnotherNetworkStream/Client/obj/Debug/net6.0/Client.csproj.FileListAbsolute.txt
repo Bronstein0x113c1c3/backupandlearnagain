@@ -1,0 +1,15 @@
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\bin\Debug\net6.0\Client.exe
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\bin\Debug\net6.0\Client.deps.json
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\bin\Debug\net6.0\Client.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\bin\Debug\net6.0\ref\Client.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\bin\Debug\net6.0\Client.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\obj\Debug\net6.0\Client.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\obj\Debug\net6.0\ref\Client.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\obj\Debug\net6.0\Client.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day3\AnotherNetworkStream\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache

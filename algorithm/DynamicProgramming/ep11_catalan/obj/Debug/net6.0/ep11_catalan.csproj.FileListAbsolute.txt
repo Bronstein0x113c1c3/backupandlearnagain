@@ -1,0 +1,16 @@
+D:\algorithm\DynamicProgramming\ep11_catalan\obj\Debug\net6.0\ep11_catalan.GlobalUsings.g.cs
+D:\algorithm\DynamicProgramming\ep11_catalan\obj\Debug\net6.0\ep11_catalan.csproj.AssemblyReference.cache
+D:\algorithm\DynamicProgramming\ep11_catalan\obj\Debug\net6.0\ep11_catalan.GeneratedMSBuildEditorConfig.editorconfig
+D:\algorithm\DynamicProgramming\ep11_catalan\obj\Debug\net6.0\ep11_catalan.AssemblyInfoInputs.cache
+D:\algorithm\DynamicProgramming\ep11_catalan\obj\Debug\net6.0\ep11_catalan.AssemblyInfo.cs
+D:\algorithm\DynamicProgramming\ep11_catalan\obj\Debug\net6.0\ep11_catalan.csproj.CoreCompileInputs.cache
+D:\algorithm\DynamicProgramming\ep11_catalan\bin\Debug\net6.0\ep11_catalan.exe
+D:\algorithm\DynamicProgramming\ep11_catalan\bin\Debug\net6.0\ep11_catalan.deps.json
+D:\algorithm\DynamicProgramming\ep11_catalan\bin\Debug\net6.0\ep11_catalan.runtimeconfig.json
+D:\algorithm\DynamicProgramming\ep11_catalan\bin\Debug\net6.0\ep11_catalan.dll
+D:\algorithm\DynamicProgramming\ep11_catalan\bin\Debug\net6.0\ref\ep11_catalan.dll
+D:\algorithm\DynamicProgramming\ep11_catalan\bin\Debug\net6.0\ep11_catalan.pdb
+D:\algorithm\DynamicProgramming\ep11_catalan\obj\Debug\net6.0\ep11_catalan.dll
+D:\algorithm\DynamicProgramming\ep11_catalan\obj\Debug\net6.0\ref\ep11_catalan.dll
+D:\algorithm\DynamicProgramming\ep11_catalan\obj\Debug\net6.0\ep11_catalan.pdb
+D:\algorithm\DynamicProgramming\ep11_catalan\obj\Debug\net6.0\ep11_catalan.genruntimeconfig.cache

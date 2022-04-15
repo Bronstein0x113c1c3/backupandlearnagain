@@ -1,0 +1,16 @@
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.exe
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.deps.json
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.runtimeconfig.json
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.runtimeconfig.dev.json
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\bin\Debug\net5.0\ref\ConsoleApp2.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.AssemblyReference.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfoInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfo.cs
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\obj\Debug\net5.0\ref\ConsoleApp2.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\bin\Debug\net5.0\ep1_day1_variables.exe
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\bin\Debug\net5.0\ep1_day1_variables.deps.json
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\bin\Debug\net5.0\ep1_day1_variables.runtimeconfig.json
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\bin\Debug\net5.0\ep1_day1_variables.runtimeconfig.dev.json
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\bin\Debug\net5.0\ep1_day1_variables.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\bin\Debug\net5.0\ref\ep1_day1_variables.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\bin\Debug\net5.0\ep1_day1_variables.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\obj\Debug\net5.0\ep1_day1_variables.csproj.AssemblyReference.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\obj\Debug\net5.0\ep1_day1_variables.GeneratedMSBuildEditorConfig.editorconfig
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\obj\Debug\net5.0\ep1_day1_variables.AssemblyInfoInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\obj\Debug\net5.0\ep1_day1_variables.AssemblyInfo.cs
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\obj\Debug\net5.0\ep1_day1_variables.csproj.CoreCompileInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\obj\Debug\net5.0\ep1_day1_variables.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\obj\Debug\net5.0\ref\ep1_day1_variables.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\obj\Debug\net5.0\ep1_day1_variables.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\ep1_day1_variables\obj\Debug\net5.0\ep1_day1_variables.genruntimeconfig.cache

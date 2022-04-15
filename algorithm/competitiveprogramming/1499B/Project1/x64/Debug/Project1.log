@@ -1,0 +1,3 @@
+﻿  Source.cpp
+B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\1499B\Project1\Source.cpp(7,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\1499B\Project1\x64\Debug\Project1.exe

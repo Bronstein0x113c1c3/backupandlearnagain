@@ -1,0 +1,15 @@
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\bin\Debug\net6.0\Project3.exe
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\bin\Debug\net6.0\Project3.deps.json
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\bin\Debug\net6.0\Project3.runtimeconfig.json
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\bin\Debug\net6.0\Project3.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\bin\Debug\net6.0\ref\Project3.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\bin\Debug\net6.0\Project3.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\obj\Debug\net6.0\Project3.csproj.AssemblyReference.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\obj\Debug\net6.0\Project3.GeneratedMSBuildEditorConfig.editorconfig
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\obj\Debug\net6.0\Project3.AssemblyInfoInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\obj\Debug\net6.0\Project3.AssemblyInfo.cs
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\obj\Debug\net6.0\Project3.csproj.CoreCompileInputs.cache
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\obj\Debug\net6.0\Project3.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\obj\Debug\net6.0\ref\Project3.dll
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\obj\Debug\net6.0\Project3.pdb
+B:\immortalthings\immortaltutorialsandprojects\c#\revision\day2\streamprojectseries\Project3\obj\Debug\net6.0\Project3.genruntimeconfig.cache

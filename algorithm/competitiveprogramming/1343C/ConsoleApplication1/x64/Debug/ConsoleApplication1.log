@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\1343C\ConsoleApplication1\ConsoleApplication1.cpp(14,17): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\1343C\ConsoleApplication1\ConsoleApplication1.cpp(16,24): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  ConsoleApplication1.vcxproj -> B:\immortalthings\immortaltutorialsandprojects\algorithm\competitiveprogramming\1343C\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
