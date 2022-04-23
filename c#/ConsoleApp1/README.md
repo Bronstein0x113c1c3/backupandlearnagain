@@ -95,8 +95,8 @@ namespace ConsoleApp1.AuthenticationForAssistant
     }
 }
 ```
-**1**. Khi bắt đầu quá trình xác thực, cần phải tạo ra một lớp trong đó có hai giá trị khởi đầu là **clientID** và **clientSecret**, cả hai đều có trong project khi chúng ta thiết lập tại [Google Cloud Console](console.cloud.google.com).
-**2**. Chúng ta sẽ phải tìm cách lấy Token để access vào API hoặc là xác thực lại token khi quá hạn. Ở đây ta sử dụng OAuth2 APi riêng của Google, trong đó có hai giá trị mà chúng ta có ở B1, một cái scope nhằm xác thực, user identifier và cuối cùng là một CancellationToken để hủy(thực ra không thể hủy được vì nếu vậy làm sao lấy được Token). Thông tin được trả về là thông tin **xác thực** bao gồm các Token như AccessToken, RefreshToken,..
+**1**. Khi bắt đầu quá trình xác thực, cần phải tạo ra một lớp trong đó có hai giá trị khởi đầu là **clientID** và **clientSecret**, cả hai đều có trong project khi chúng ta thiết lập tại [Google Cloud Console](console.cloud.google.com).\
+**2**. Chúng ta sẽ phải tìm cách lấy Token để access vào API hoặc là xác thực lại token khi quá hạn. Ở đây ta sử dụng OAuth2 APi riêng của Google, trong đó có hai giá trị mà chúng ta có ở B1, một cái scope nhằm xác thực, user identifier và cuối cùng là một CancellationToken để hủy(thực ra không thể hủy được vì nếu vậy làm sao lấy được Token). Thông tin được trả về là thông tin **xác thực** bao gồm các Token như AccessToken, RefreshToken,..\
 #### **2. Sử dụng Assistant (lược bỏ bước đăng kí thiết bị)**
 ```
 using System;
@@ -237,9 +237,9 @@ namespace ConsoleApp1.Main
     }
 }
 ```
-**1**. Tại bước "tạo ra" một chị trợ lý ảo  và "cấp phép" cho chị ấy hoạt động, ta cần có thông tin của người chủ sử dụng thì khi đấy, chúng ta phải tạo ra một kênh kết nối với "bố" của chị ấy, tức là bác Sundar Pichai :). Tức là khi có thông tin xác thực, ta sẽ tạo ra một **Channel** gRPC để kết nối với API Endpoint chuyên xử lý các request gRPC từ phía client. Ta đặt endpoint là (embeddedassistant.googleapis.com), cổng 443 và thông tin được xác thực phải về dạng ChannelCredential(thư viện Grpc.Auth lo hết :) ). Khi tạo xong một kênh thì sử dụng kênh đó để trao đổi thông tin bằng việc tạo ra "cô chị xinh đẹp" của chúng ta, tức là tạo class **Assistant** và trao đổi thông qua channel đó. Tại đây thì tôi đã đặt kiểm tra xem có thành công hay không, nếu không thành công thì toàn bộ quá trình xác thực bị lỗi và khiến cho chương trình không thể chạy được.
-**2**. Khi quá trình này thành công, thì các thông tin sẽ đi qua, bao gồm có hai dạng là thoại và nhập liệu. Riêng cái nhập liệu thì mặc dầu dễ làm nhưng mà có khá nhiều hạn chế do không thể biểu đạt được bằng dạng string bình thường và ở dạng thoại thì còn khó gấp bội. Cả hai đều được gói lại bằng byte và được trao đổi trong một gói tin là **AssistConfig**, nó bao gồm các thiết lập thông tin về thiết bị, cách chúng ta truy vấn và output.
-**3**. Cuối cùng là điều chế lại thông tin trả về tại void **OnNext**. Tại đó chúng ta sẽ kiểm tra các thuộc tính như voice(**AudioOut**), text(**DialogStateOut.SupplementalDisplayText**). Trong trường hợp test thiết bị IoT thì có thêm cả  **DebugInfo** và **DeviceAction**. 
+**1**. Tại bước "tạo ra" một chị trợ lý ảo  và "cấp phép" cho chị ấy hoạt động, ta cần có thông tin của người chủ sử dụng thì khi đấy, chúng ta phải tạo ra một kênh kết nối với "bố" của chị ấy, tức là bác Sundar Pichai :). Tức là khi có thông tin xác thực, ta sẽ tạo ra một **Channel** gRPC để kết nối với API Endpoint chuyên xử lý các request gRPC từ phía client. Ta đặt endpoint là (embeddedassistant.googleapis.com), cổng 443 và thông tin được xác thực phải về dạng ChannelCredential(thư viện Grpc.Auth lo hết :) ). Khi tạo xong một kênh thì sử dụng kênh đó để trao đổi thông tin bằng việc tạo ra "cô chị xinh đẹp" của chúng ta, tức là tạo class **Assistant** và trao đổi thông qua channel đó. Tại đây thì tôi đã đặt kiểm tra xem có thành công hay không, nếu không thành công thì toàn bộ quá trình xác thực bị lỗi và khiến cho chương trình không thể chạy được.\
+**2**. Khi quá trình này thành công, thì các thông tin sẽ đi qua, bao gồm có hai dạng là thoại và nhập liệu. Riêng cái nhập liệu thì mặc dầu dễ làm nhưng mà có khá nhiều hạn chế do không thể biểu đạt được bằng dạng string bình thường và ở dạng thoại thì còn khó gấp bội. Cả hai đều được gói lại bằng byte và được trao đổi trong một gói tin là **AssistConfig**, nó bao gồm các thiết lập thông tin về thiết bị, cách chúng ta truy vấn và output.\
+**3**. Cuối cùng là điều chế lại thông tin trả về tại void **OnNext**. Tại đó chúng ta sẽ kiểm tra các thuộc tính như voice(**AudioOut**), text(**DialogStateOut.SupplementalDisplayText**). Trong trường hợp test thiết bị IoT thì có thêm cả  **DebugInfo** và **DeviceAction**. \
 Các bước được liên kết tới nhau ở file **Program.cs**
 ```
 using System;
@@ -294,17 +294,17 @@ namespace ConsoleApp1
 ```
 ## **3. Trả lời các thắc mắc**
 1. Tại sao không có bước 2 mà chơi mì ăn liền mode?
-    **Lý do cực kì đơn giản**: Đăng kí thiết bị khiến code dài ra và tốn sức sửa chữa, trong khi đó mình có hai thiết bị đăng kí rồi, trong nhiều trường hợp, nếu muốn tự động hóa cái này thì có thể xem tại trang SDK mà mình để ở phần 1. Khi đó ở C# thì chúng ta phải biến tấu file đó thành file JSON rồi đăng kí với thư viện Newtonsoft.JSON. Cái khiến mình không thực sự muốn làm vậy là mình liên tục gặp lỗi khi chạy thử, dẫn đến mình tự đăng kí chay luôn, mấy bố thích thì tự code một cái cũng được, có tham khảo đàng hoàng luôn.
+    **Lý do cực kì đơn giản**: Đăng kí thiết bị khiến code dài ra và tốn sức sửa chữa, trong khi đó mình có hai thiết bị đăng kí rồi, trong nhiều trường hợp, nếu muốn tự động hóa cái này thì có thể xem tại trang SDK mà mình để ở phần 1. Khi đó ở C# thì chúng ta phải biến tấu file đó thành file JSON rồi đăng kí với thư viện Newtonsoft.JSON. Cái khiến mình không thực sự muốn làm vậy là mình liên tục gặp lỗi khi chạy thử, dẫn đến mình tự đăng kí chay luôn, mấy bố thích thì tự code một cái cũng được, có tham khảo đàng hoàng luôn.\
 2.  Ý tưởng có rồi, vậy câu chuyện mà anh muốn kể là gì?
-    **Trả lời**: Mình có viết riêng một chuyên mục về gRPC mà mới chỉ ở bước đầu là phân tích RESTful API và mới chỉ sơ qua cái gRPC như nào, sau lần này thì mình sẽ viết nhiều hơnhơn
+    **Trả lời**: Mình có viết riêng một chuyên mục về gRPC mà mới chỉ ở bước đầu là phân tích RESTful API và mới chỉ sơ qua cái gRPC như nào, sau lần này thì mình sẽ viết nhiều hơn.\
 3.  Mất bao nhiêu thời gian để làm cái này?
-    **Trả lời**: 2 ngày để nghiên cứu và viết lược đồ, thêm cả tham khảo các projects khác của những tiền bối đi trước
+    **Trả lời**: 2 ngày để nghiên cứu và viết lược đồ, thêm cả tham khảo các projects khác của những tiền bối đi trước.\
 4. Trải nghiệm nó như nào khi anh viết xong?
-    **Trả lời**: Đỡ chán nản hơn trong khoảng thời gian kiểm tra dồn này, ít nhất là lấy lại niềm tin đã mất. Thêm nữa là mình còn phải thi IELTS và học thật tập trung nên cái trải nghiệm này dạy mình tính kiên nhẫn, nỗ lực và tối ưu thời gian.
+    **Trả lời**: Đỡ chán nản hơn trong khoảng thời gian kiểm tra dồn này, ít nhất là lấy lại niềm tin đã mất. Thêm nữa là mình còn phải thi IELTS và học thật tập trung nên cái trải nghiệm này dạy mình tính kiên nhẫn, nỗ lực và tối ưu thời gian.\
 5. Anh có định phát triển tiếp không?
-    **Trả lời**: Yeb!
+    **Trả lời**: Yeb!\
 6.Anh có tính mời mọi người đọc cái này không?
-    **Trả lời**: Dĩ nhiên thằng bạn mình sẽ xem cái này đầu tiên, leader và cả anh em ở BTDev nữa. Đã từng hé lộ trên Facebook rồi nhưng không ai để ý, nên là mình cũng sẽ không sử dụng nó cho các bài viết chuyên sâu. Dù sao thì, người quan tâm thì đọc nó, còn người khác thì chả quan tâm làm gì, mình đang học đúng chuyên ngành của mình cơ mà :)).
+    **Trả lời**: Dĩ nhiên thằng bạn mình sẽ xem cái này đầu tiên, leader và cả anh em ở BTDev nữa. Đã từng hé lộ trên Facebook rồi nhưng không ai để ý, nên là mình cũng sẽ không sử dụng nó cho các bài viết chuyên sâu. Dù sao thì, người quan tâm thì đọc nó, còn người khác thì chả quan tâm làm gì, mình đang học đúng chuyên ngành của mình cơ mà :)).\
 
 **Và đó là toàn bộ dự án đầu tiên của mình sau 2 ngày mò mẫm**
 **Written by BronsteinofTROYCS20**
