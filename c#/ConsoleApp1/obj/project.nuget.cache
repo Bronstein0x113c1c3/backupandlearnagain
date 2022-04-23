@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "nxCmqK0Znn8+6WERxNUeMH+HpbZeC9ESxDsxQTPUe+gCgguBMNfBaxYittpYHt9X19keVkCcRxq92avDIMK3cg==",
+  "success": true,
+  "projectFilePath": "D:\\assistant\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tuana\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\google.apis.core\\1.57.0\\google.apis.core.1.57.0.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\google.protobuf\\3.20.1\\google.protobuf.3.20.1.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\grpc.auth\\2.45.0\\grpc.auth.2.45.0.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\grpc.core\\2.45.0\\grpc.core.2.45.0.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\grpc.core.api\\2.45.0\\grpc.core.api.2.45.0.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\naudio\\1.7.0\\naudio.1.7.0.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NAudio 1.7.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NAudio",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
