@@ -96,7 +96,7 @@ namespace ConsoleApp1.AuthenticationForAssistant
 }
 ```
 **1**. Khi bắt đầu quá trình xác thực, cần phải tạo ra một lớp trong đó có hai giá trị khởi đầu là **clientID** và **clientSecret**, cả hai đều có trong project khi chúng ta thiết lập tại [Google Cloud Console](console.cloud.google.com).\
-**2**. Chúng ta sẽ phải tìm cách lấy Token để access vào API hoặc là xác thực lại token khi quá hạn. Ở đây ta sử dụng OAuth2 APi riêng của Google, trong đó có hai giá trị mà chúng ta có ở B1, một cái scope nhằm xác thực, user identifier và cuối cùng là một CancellationToken để hủy(thực ra không thể hủy được vì nếu vậy làm sao lấy được Token). Thông tin được trả về là thông tin **xác thực** bao gồm các Token như AccessToken, RefreshToken,..\
+**2**. Chúng ta sẽ phải tìm cách lấy Token để access vào API hoặc là xác thực lại token khi quá hạn. Ở đây ta sử dụng OAuth2 APi riêng của Google, trong đó có hai giá trị mà chúng ta có ở B1, một cái scope nhằm xác thực, user identifier và cuối cùng là một CancellationToken để hủy(thực ra không thể hủy được vì nếu vậy làm sao lấy được Token). Thông tin được trả về là thông tin **xác thực** bao gồm các Token như AccessToken, RefreshToken,...
 #### **2. Sử dụng Assistant (lược bỏ bước đăng kí thiết bị)**
 ```
 using System;
