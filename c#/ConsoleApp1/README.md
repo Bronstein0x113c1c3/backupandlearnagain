@@ -314,7 +314,7 @@ namespace ConsoleApp1
 5. Anh có định phát triển tiếp không? \
     **Trả lời**: Yeb! \
     
-6.Anh có tính mời mọi người đọc cái này không? \
+    6.Anh có tính mời mọi người đọc cái này không? \
     **Trả lời**: Dĩ nhiên thằng bạn mình sẽ xem cái này đầu tiên, leader và cả anh em ở BTDev nữa. Đã từng hé lộ trên Facebook rồi nhưng không ai để ý, nên là mình cũng sẽ không sử dụng nó cho các bài viết chuyên sâu. Dù sao thì, người quan tâm thì đọc nó, còn người khác thì chả quan tâm làm gì, mình đang học đúng chuyên ngành của mình cơ mà :)).
 
 **Và đó là toàn bộ dự án đầu tiên của mình sau 2 ngày mò mẫm** \
