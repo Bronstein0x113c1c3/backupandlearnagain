@@ -294,17 +294,17 @@ namespace ConsoleApp1
 ```
 ## **3. Trả lời các thắc mắc**
 1. Tại sao không có bước 2 mà chơi mì ăn liền mode?
-    **Lý do cực kì đơn giản**: Đăng kí thiết bị khiến code dài ra và tốn sức sửa chữa, trong khi đó mình có hai thiết bị đăng kí rồi, trong nhiều trường hợp, nếu muốn tự động hóa cái này thì có thể xem tại trang SDK mà mình để ở phần 1. Khi đó ở C# thì chúng ta phải biến tấu file đó thành file JSON rồi đăng kí với thư viện Newtonsoft.JSON. Cái khiến mình không thực sự muốn làm vậy là mình liên tục gặp lỗi khi chạy thử, dẫn đến mình tự đăng kí chay luôn, mấy bố thích thì tự code một cái cũng được, có tham khảo đàng hoàng luôn.\
+    **Lý do cực kì đơn giản**: Đăng kí thiết bị khiến code dài ra và tốn sức sửa chữa, trong khi đó mình có hai thiết bị đăng kí rồi, trong nhiều trường hợp, nếu muốn tự động hóa cái này thì có thể xem tại trang SDK mà mình để ở phần 1. Khi đó ở C# thì chúng ta phải biến tấu file đó thành file JSON rồi đăng kí với thư viện Newtonsoft.JSON. Cái khiến mình không thực sự muốn làm vậy là mình liên tục gặp lỗi khi chạy thử, dẫn đến mình tự đăng kí chay luôn, mấy bố thích thì tự code một cái cũng được, có tham khảo đàng hoàng luôn.
 2.  Ý tưởng có rồi, vậy câu chuyện mà anh muốn kể là gì?
-    **Trả lời**: Mình có viết riêng một chuyên mục về gRPC mà mới chỉ ở bước đầu là phân tích RESTful API và mới chỉ sơ qua cái gRPC như nào, sau lần này thì mình sẽ viết nhiều hơn.\
+    **Trả lời**: Mình có viết riêng một chuyên mục về gRPC mà mới chỉ ở bước đầu là phân tích RESTful API và mới chỉ sơ qua cái gRPC như nào, sau lần này thì mình sẽ viết nhiều hơn.
 3.  Mất bao nhiêu thời gian để làm cái này?
-    **Trả lời**: 2 ngày để nghiên cứu và viết lược đồ, thêm cả tham khảo các projects khác của những tiền bối đi trước.\
+    **Trả lời**: 2 ngày để nghiên cứu và viết lược đồ, thêm cả tham khảo các projects khác của những tiền bối đi trước.
 4. Trải nghiệm nó như nào khi anh viết xong?
-    **Trả lời**: Đỡ chán nản hơn trong khoảng thời gian kiểm tra dồn này, ít nhất là lấy lại niềm tin đã mất. Thêm nữa là mình còn phải thi IELTS và học thật tập trung nên cái trải nghiệm này dạy mình tính kiên nhẫn, nỗ lực và tối ưu thời gian.\
+    **Trả lời**: Đỡ chán nản hơn trong khoảng thời gian kiểm tra dồn này, ít nhất là lấy lại niềm tin đã mất. Thêm nữa là mình còn phải thi IELTS và học thật tập trung nên cái trải nghiệm này dạy mình tính kiên nhẫn, nỗ lực và tối ưu thời gian.
 5. Anh có định phát triển tiếp không?
-    **Trả lời**: Yeb!\
+    **Trả lời**: Yeb!
 6.Anh có tính mời mọi người đọc cái này không?
-    **Trả lời**: Dĩ nhiên thằng bạn mình sẽ xem cái này đầu tiên, leader và cả anh em ở BTDev nữa. Đã từng hé lộ trên Facebook rồi nhưng không ai để ý, nên là mình cũng sẽ không sử dụng nó cho các bài viết chuyên sâu. Dù sao thì, người quan tâm thì đọc nó, còn người khác thì chả quan tâm làm gì, mình đang học đúng chuyên ngành của mình cơ mà :)).\
+    **Trả lời**: Dĩ nhiên thằng bạn mình sẽ xem cái này đầu tiên, leader và cả anh em ở BTDev nữa. Đã từng hé lộ trên Facebook rồi nhưng không ai để ý, nên là mình cũng sẽ không sử dụng nó cho các bài viết chuyên sâu. Dù sao thì, người quan tâm thì đọc nó, còn người khác thì chả quan tâm làm gì, mình đang học đúng chuyên ngành của mình cơ mà :)).
 
 **Và đó là toàn bộ dự án đầu tiên của mình sau 2 ngày mò mẫm**
 **Written by BronsteinofTROYCS20**
