@@ -18,10 +18,10 @@ Giữa mỗi bước đều có file chương trình chính liên kết các bư
 - ConsoleApp1
     - bin (thư mục chứa các file debug)
     - obj
-    - google(thư mục chứa API gRPC của Google)
-        - assistant
-            - EmbeddedAssistant.cs
-            - EmbeddedAssistantGrpc.cs
+    - *google (thư mục chứa API gRPC của Google)*
+        - **assistant**
+            - **EmbeddedAssistant.cs**
+            - **EmbeddedAssistantGrpc.cs**
         - googleapis
             - Annotations.cs
             - Http.cs
