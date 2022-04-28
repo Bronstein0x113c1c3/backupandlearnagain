@@ -55,9 +55,9 @@ namespace ConsoleApp1.AuthenticationForAssistant
         public UserCredential UserCredential { get; set; }
         public string clientID { get; set; }
         public string clientSecret { get; set; }
-        public Authentication(string clientID, string clientSecret)
+        public Authentication(string **clientID**, string **clientSecret**)
         {
-            this.clientID = clientID;
+            this.clientID = clientID;                           //Đây là các thông tin mỏ đầu nhưng vô cùng quan trọng để mở API và xin quyền truy cập
             this.clientSecret = clientSecret;
         }
         public async Task<UserCredential> GetTokenInfo()
@@ -73,6 +73,7 @@ namespace ConsoleApp1.AuthenticationForAssistant
                 CancellationToken.None,
                 null
             );
+            //Thực tế là bước này hơi dài do không chuẩn bị trước, trên thực tế là có thể lược bỏ kha khá code rồi :))
             authorization_flow = new GoogleAuthorizationCodeFlow(new GoogleAuthorizationCodeFlow.Initializer()
             {
                 ClientSecrets = new ClientSecrets()
