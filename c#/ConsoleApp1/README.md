@@ -55,7 +55,7 @@ namespace ConsoleApp1.AuthenticationForAssistant
         public UserCredential UserCredential { get; set; }
         public string clientID { get; set; }
         public string clientSecret { get; set; }
-        public Authentication(string **clientID**, string **clientSecret**)
+        public Authentication(string clientID, string clientSecret)
         {
             this.clientID = clientID;                           //Đây là các thông tin mỏ đầu nhưng vô cùng quan trọng để mở API và xin quyền truy cập
             this.clientSecret = clientSecret;
